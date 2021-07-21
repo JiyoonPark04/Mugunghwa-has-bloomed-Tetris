@@ -1,0 +1,5 @@
+E:\4-1\tttttetris\Debug\tttttetris.exe
+E:\4-1\기초컴퓨터프로그래밍\팀플\tttttetris_FIN\Debug\tttttetris.exe
+C:\Users\mj166\OneDrive\바탕 화면\tttttetris_FIN\Debug\tttttetris.exe
+C:\Users\Owner\Desktop\tttttetris_FIN\Debug\tttttetris.exe
+C:\Users\Owner\Desktop\Tetris_team7\Debug\tetris_gostop.exe

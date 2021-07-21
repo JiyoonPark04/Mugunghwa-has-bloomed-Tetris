@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(tttttetris.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Block.cpp
+  Map.cpp
+C:\Users\Owner\Desktop\Tetris_team7\Map.cpp(259,7): warning C4101: 'keytemp' :참조되지 않은 지역 변수입니다.
+C:\Users\Owner\Desktop\Tetris_team7\Map.cpp(625,8): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\Owner\Desktop\Tetris_team7\Map.cpp(625,36): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\Owner\Desktop\Tetris_team7\Map.cpp(625,65): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\Owner\Desktop\Tetris_team7\Map.cpp(625,99): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\Owner\Desktop\Tetris_team7\Map.cpp(626,10): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\Owner\Desktop\Tetris_team7\Map.cpp(626,41): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\Owner\Desktop\Tetris_team7\Map.cpp(626,75): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\Owner\Desktop\Tetris_team7\Map.cpp(626,109): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\Owner\Desktop\Tetris_team7\Map.cpp(675,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage.cpp
+  Tetris.cpp
+  코드를 생성하고 있습니다...
+  tttttetris.vcxproj -> C:\Users\Owner\Desktop\Tetris_team7\Debug\tetris_gostop.exe
